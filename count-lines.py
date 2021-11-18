@@ -1,6 +1,7 @@
 
 """This module counts the number of lines in a standard input.
-Input: A string from the system's standard input"""
+Input: A string from the system's standard input
+Output: A string wutg a total number if lines"""
 
 import sys
 
